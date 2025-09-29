@@ -1,11 +1,10 @@
 title: "CHAOSS DEI Project Badging Playbook"
 description: "A guide for CHAOSS DEI Working Group members and outreach ambassadors."
-baseurl: "/wg-dei/project-badging-outreach-playbook" # set if hosting in a subfolder
-url: "https://adeyinkaoresanya.github.io" # update with your GitHub Pages URL
+baseurl: "/wg-dei/project-badging-outreach-playbook" # hosting in subfolder
+url: "https://adeyinkaoresanya.github.io"
 
 # Use Just the Docs theme
 remote_theme: just-the-docs/just-the-docs
-
 
 # Enable search
 search_enabled: true
@@ -13,28 +12,5 @@ search_enabled: true
 # Footer (optional)
 footer_content: "Maintained by the CHAOSS DEI Working Group"
 
-
-# Navigation
-nav:
-  - title: "Overview"
-    url: "/"
-  - title: "Objective & Audience"
-    url: "/01-objective/"
-  - title: "Outreach Ambassador Guidance"
-    url: "/02-outreach-ambassador/"
-  - title: "About Project Badging"
-    url: "/03-about-project-badging/"
-  - title: "How It Works"
-    url: "/how-it-works/"
-  - title: "Key Talking Points"
-    url: "/05-key-talking-points/"
-  - title: "Conversation Flow"
-    url: "/06-conversation-flow/"
-  - title: "FAQs"
-    url: "/07-FAQs/"
-  - title: "Resources"
-    url: "/08-resources/"
-  - title: "Follow Up & Tracking"
-    url: "/09-follow-up/"
-  - title: "Templates"
-    url: "/10-templates/"
+# Optional: logo (if you want)
+# logo: "/assets/images/logo.png"
