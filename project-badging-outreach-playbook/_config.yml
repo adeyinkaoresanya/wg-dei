@@ -53,14 +53,14 @@ description: "A guide for DEI advocates to support CHAOSS Project Badging adopti
 
 title: "CHAOSS DEI Project Badging Outreach Playbook"
 description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
-url: "https://adeyinkaoresanya.github.io"
+url: "https://adeyinkaoresanya.github.io/wg-dei"
 baseurl: "/project-badging-outreach-playbook"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 
-repository: "https://github.com/adeyinka-oresanya/wg-dei/project-badging-outreach-playbook"
+repository: "https://github.com/adeyinkaoresanya/wg-dei/tree/main/project-badging-outreach-playbook"
 nav_order:
 - _index.md
 - 00-overview.md
