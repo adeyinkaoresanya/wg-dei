@@ -1,6 +1,6 @@
 title: "CHAOSS DEI Project Badging Playbook"
 description: "A guide for CHAOSS DEI Working Group members and outreach ambassadors."
-baseurl: "/dei-wg/project-badging-outreach-playbook" # set if hosting in a subfolder
+baseurl: "/wg-dei/project-badging-outreach-playbook" # set if hosting in a subfolder
 url: "https://adeyinkaoresanya.github.io" # update with your GitHub Pages URL
 
 # Use Just the Docs theme
