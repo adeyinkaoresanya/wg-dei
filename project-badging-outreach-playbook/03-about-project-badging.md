@@ -1,6 +1,5 @@
 ---
 title: "About Project Badging"
-parent: "Playbook Sections"
 nav_order: 3
 layout: default
 ---

@@ -1,7 +1,6 @@
 ---
-title: "Playbook Sections"
+title: "Home"
 layout: default
-parent: "CHAOSS DEI Project Badging Outreach Playbook"
 ---
 
 # CHAOSS DEI Project Badging Outreach Playbook

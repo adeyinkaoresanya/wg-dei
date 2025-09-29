@@ -1,5 +1,5 @@
 ---
-title: "CHAOSS DEI Project Badging Outreach Playbook"
+title: "Home"
 
 layout: default
 ---

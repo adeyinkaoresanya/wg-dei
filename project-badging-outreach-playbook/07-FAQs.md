@@ -1,6 +1,5 @@
 ---
 title: "FAQs"
-parent: playbook-sections
 nav_order: 7
 layout: default
 ---

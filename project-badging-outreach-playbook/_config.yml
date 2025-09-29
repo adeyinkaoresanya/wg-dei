@@ -1,0 +1,76 @@
+# # --------------------------------------------------------------------------
+# # JEKYLL SITE CONFIG FOR CHAOSS DEI PLAYBOOK
+# # --------------------------------------------------------------------------
+
+# title: "CHAOSS DEI Project Badging Outreach Playbook"
+# description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
+# url: "https://adeyinkaoresanya.github.io"
+# baseurl: "/project-badging-outreach-playbook"
+
+# remote_theme: just-the-docs/just-the-docs
+# color_scheme: dark
+
+# # Sidebar navigation
+# nav_items:
+#   - tit le: "CHAOSS DEI Project Badging Outreach Playbook"
+#     url: /
+#     children:
+#       -title: "Playbook Sections"
+#       url: /playbook-sections
+#       children:
+#         - title: "Objective & Audience"
+#           url: /playbook-sections/01-objective
+#         - title: "Outreach Ambassador Guidance"
+#           url: /playbook-sections/02-outreach-ambassador
+#         - title: "About Project Badging"
+#           url: /playbook-sections/03-about-project-badging
+          
+
+# search_enabled: true
+# footer_content: "Maintained by the CHAOSS DEI Working Group"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+title: "CHAOSS DEI Project Badging Outreach Playbook"
+description: "A guide for DEI advocates to support CHAOSS Project Badging adoption"
+# theme: minima
+# markdown: kramdown
+# plugins:
+#   - jekyll-feed
+
+
+
+title: "CHAOSS DEI Project Badging Outreach Playbook"
+description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
+url: "https://adeyinkaoresanya.github.io"
+baseurl: "/project-badging-outreach-playbook"
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+
+repository: "https://github.com/adeyinka-oresanya/wg-dei/project-badging-outreach-playbook"
+nav_order:
+- _index.md
+- 00-overview.md
+- 01-objective.md
+- 02-outreach-ambassador.md
+- 03-about-project-badging.md
+- 04-how-it-works.md
+- 05-key-talking-points.md
+- 06-conversation-flow.md
+- 07-FAQs.md
+- 08-resources.md
+- 09-follow-up.md
+- 10-templates.md

@@ -1,6 +1,5 @@
 ---
-title: "Resources & FAQs"
-parent: playbook-sections
+title: "Resources"
 nav_order: 8
 layout: default
 ---

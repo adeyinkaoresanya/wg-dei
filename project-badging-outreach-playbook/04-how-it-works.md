@@ -1,7 +1,6 @@
 ---
 title: "How It Works"
-parent: project-badging-outreach-playbook/playbook-sections
-nav_order: 5
+nav_order: 4
 layout: default
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Follow Up & Tracking"
-parent: playbook-sections
 nav_order: 9
 layout: default
 ---

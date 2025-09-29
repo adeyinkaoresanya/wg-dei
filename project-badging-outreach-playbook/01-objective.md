@@ -1,6 +1,5 @@
 ---
 title: "Objective & Audience"
-parent: "Playbook Sections"
 nav_order: 1
 layout: default
 ---
