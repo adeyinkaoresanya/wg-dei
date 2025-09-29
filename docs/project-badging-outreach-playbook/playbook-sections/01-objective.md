@@ -1,7 +1,7 @@
 ---
 title: "Objective & Audience"
-parent: playbook-sections
-nav_order: 2
+parent: project-badging-outreach-playbook/playbook-sections
+nav_order: 1
 layout: default
 ---
 

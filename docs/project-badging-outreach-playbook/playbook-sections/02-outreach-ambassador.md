@@ -1,6 +1,6 @@
 ---
 title: "Outreach Ambassador Guidance"
-parent: playbook-sections
+parent: project-badging-outreach-playbook/playbook-sections
 nav_order: 3
 
 layout: default

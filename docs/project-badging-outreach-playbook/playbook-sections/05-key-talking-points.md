@@ -1,6 +1,6 @@
 ---
 title: "Key Talking Points"
-parent: playbook-sections
+parent: project-badging-outreach-playbook/playbook-sections
 nav_order: 6
 layout: default
 ---
