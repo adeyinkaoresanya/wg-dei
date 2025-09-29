@@ -1,7 +1,7 @@
 ---
 title: "Playbook Sections"
-parent: project-badging-outreach-playbook
 layout: default
+parent: project-badging-outreach-playbook
 ---
 
 # CHAOSS DEI Project Badging Outreach Playbook
