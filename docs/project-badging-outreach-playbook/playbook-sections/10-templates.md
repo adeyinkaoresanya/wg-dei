@@ -1,6 +1,8 @@
 ---
 title: "Templates"
+parent: playbook-sections
 nav_order: 10
+layout: default
 ---
 
 ## Email Template

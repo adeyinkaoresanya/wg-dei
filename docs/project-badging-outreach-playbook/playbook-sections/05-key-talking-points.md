@@ -1,6 +1,8 @@
 ---
 title: "Key Talking Points"
+parent: playbook-sections
 nav_order: 6
+layout: default
 ---
 
 _When introducing Project Badging, keep your message simple and structured around the **Why, What, and How**._

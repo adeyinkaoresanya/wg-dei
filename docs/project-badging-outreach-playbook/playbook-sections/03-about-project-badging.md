@@ -1,6 +1,8 @@
 ---
 title: "About Project Badging"
+parent: playbook-sections
 nav_order: 4
+layout: default
 ---
 
 ## What is Project Badging?

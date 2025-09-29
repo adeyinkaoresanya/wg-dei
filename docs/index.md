@@ -1,6 +1,7 @@
 ---
 title: "CHAOSS DEI Project Badging Outreach Playbook"
-nav_order: 1
+
+layout: default
 ---
 
 # CHAOSS DEI Project Badging Outreach Playbook

@@ -1,6 +1,8 @@
 ---
 title: "Resources & FAQs"
+parent: playbook-sections
 nav_order: 8
+layout: default
 ---
 
 ## Resources to Share

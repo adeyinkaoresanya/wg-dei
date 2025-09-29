@@ -1,6 +1,9 @@
 ---
 title: "Outreach Ambassador Guidance"
+parent: playbook-sections
 nav_order: 3
+
+layout: default
 ---
 
 ## How to be an effective Outreach Ambassador

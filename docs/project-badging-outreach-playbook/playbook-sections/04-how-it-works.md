@@ -1,6 +1,8 @@
 ---
 title: "How It Works"
+parent: playbook-sections
 nav_order: 5
+layout: default
 ---
 
 **N.B:** _This section is for project owners, admins, organisers, or maintainers to complete. The outreach ambassador will walk them through these steps._

@@ -1,6 +1,8 @@
 ---
 title: "Conversation Flow"
+parent: playbook-sections
 nav_order: 7
+layout: default
 ---
 
 ## Conversation Flow: How to Talk About Project Badging
