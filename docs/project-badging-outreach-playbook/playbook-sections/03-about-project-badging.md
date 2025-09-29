@@ -1,7 +1,7 @@
 ---
 title: "About Project Badging"
-parent: project-badging-outreach-playbook/playbook-sections
-nav_order: 4
+parent: "Playbook Sections"
+nav_order: 3
 layout: default
 ---
 

@@ -1,24 +1,3 @@
-# title: "CHAOSS DEI Project Badging Playbook"
-# description: "A guide for CHAOSS DEI Working Group members and outreach ambassadors."
-# baseurl: "/wg-dei/project-badging-outreach-playbook" # hosting in subfolder
-# url: "https://adeyinkaoresanya.github.io"
-
-# # Use Just the Docs theme
-# remote_theme: just-the-docs/just-the-docs
-
-# # Enable search
-# search_enabled: true
-
-# # Footer (optional)
-# footer_content: "Maintained by the CHAOSS DEI Working Group"
-
-# # Optional: logo (if you want)
-# # logo: "/assets/images/logo.png"
-
-
-
-
-
 # --------------------------------------------------------------------------
 # JEKYLL SITE CONFIG FOR CHAOSS DEI PLAYBOOK
 # --------------------------------------------------------------------------
@@ -26,31 +5,27 @@
 title: "CHAOSS DEI Project Badging Outreach Playbook"
 description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
 url: "https://adeyinkaoresanya.github.io"
-baseurl: "/wg-dei/project-badging-outreach-playbook"
+baseurl: "/project-badging-outreach-playbook"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 # Sidebar navigation
 nav_items:
-  - title: "Playbook Sections"
-    section: project-badging-outreach-playbook/playbook-sections
+  - title: "CHAOSS DEI Project Badging Outreach Playbook"
+    url: /
+    children:
+      -title: "Playbook Sections"
+      url: /playbook-sections
+      children:
+        - title: "Objective & Audience"
+          url: /playbook-sections/01-objective
+        - title: "Outreach Ambassador Guidance"
+          url: /playbook-sections/02-outreach-ambassador
+        - title: "About Project Badging"
+          url: /playbook-sections/03-about-project-badging
+          
 
-# # Top-right custom links
-# aux_links:
-#   "GitHub Repo":
-#     - "https://github.com/adeyinkaoresanya/wg-dei"
-
-# # Exclude files from build
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - LICENSE.md
-#   - README.md
-
-# # Markdown settings
-# markdown: kramdown
-# kramdown:
-#   input: GFM
-#   syntax_highlighter: rouge
+search_enabled: true
+footer_content: "Maintained by the CHAOSS DEI Working Group"
 
